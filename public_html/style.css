@@ -1,0 +1,12 @@
+img {
+    vertical-align: middle;
+    border-style: none;
+}
+
+
+.nav-link:hover,
+.cola:hover{
+    background-color: rgb(244, 66, 134);
+    border-radius: 5px;padding-left: 15px;
+    color: blue;
+}
