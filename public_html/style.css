@@ -10,3 +10,7 @@ img {
     border-radius: 5px;padding-left: 15px;
     color: blue;
 }
+.header-inscription{
+    background: url(imag/contact.jfif) no-repeat center center fixed !important;
+    background-size: cover !important;
+}
