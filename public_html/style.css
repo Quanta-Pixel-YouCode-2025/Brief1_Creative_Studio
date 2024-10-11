@@ -14,3 +14,7 @@ img {
     background: url(imag/contact.jfif) no-repeat center center fixed !important;
     background-size: cover !important;
 }
+.header-contact{
+    background: url(imag/blog.jfif) no-repeat center center fixed !important;
+    background-size: cover !important;
+}
